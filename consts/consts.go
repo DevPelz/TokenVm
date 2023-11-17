@@ -18,6 +18,8 @@ const (
 	Name = "PELZ"
 	// TODO: choose a token symbol
 	Symbol = "PLZ"
+
+	Decimals = 9
 )
 
 var ID ids.ID
